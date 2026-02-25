@@ -1,12 +1,12 @@
 /**
- * Base Scraper for WatchAnimeWorld.in
+ * Base Scraper for WatchAnimeWorld.net
  * Copyright (c) 2025 Basirul Akhlak Borno - https://basirulakhlak.tech/
  * ⚠️ Educational use only. Respect copyright laws.
  */
 
 class WatchAnimeWorldBase {
   constructor() {
-    this.baseUrl = 'https://watchanimeworld.in';
+    this.baseUrl = 'https://watchanimeworld.net';
   }
 
   buildUrl(path) {

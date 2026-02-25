@@ -52,8 +52,8 @@ class BaseExtractor {
       imageUrl = `https:${imageUrl}`;
     }
     
-    // Replace img.anime-world.co with img.watchanimeworld.in
-    imageUrl = imageUrl.replace(/img\.anime-world\.co/g, 'img.watchanimeworld.in');
+    // Replace img.anime-world.co with img.watchanimeworld.net
+    imageUrl = imageUrl.replace(/img\.anime-world\.co/g, 'img.watchanimeworld.net');
     
     return imageUrl;
   }

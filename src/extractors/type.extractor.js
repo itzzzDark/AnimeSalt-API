@@ -14,7 +14,7 @@ class TypeExtractor extends BaseExtractor {
   }
 
   getSourceName() {
-    return 'watchanimeworld.in';
+    return 'watchanimeworld.net';
   }
 
   extractItem($, item) {

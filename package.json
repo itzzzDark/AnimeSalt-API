@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "node --watch server.js",
     "start": "node server.js",
-    "lint": "eslint src --ext .js"
+    "lint": "eslint src --ext .js",
+    "test": "node test.js"
   },
   "keywords": [
     "scraper",

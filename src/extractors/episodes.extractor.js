@@ -14,7 +14,7 @@ class EpisodesExtractor extends BaseExtractor {
   }
 
   getSourceName() {
-    return 'watchanimeworld.in';
+    return 'watchanimeworld.net';
   }
 
   extractEpisode($, item) {

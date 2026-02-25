@@ -2,7 +2,7 @@
 
 ![Favicon](public/favicon.png)
 
-A RESTful API scraper for AnimeWorldIndia, built with Node.js and Express. This API provides endpoints to extract anime, cartoon, movie, and series information from watchanimeworld.in.
+A RESTful API scraper for AnimeWorldIndia, built with Node.js and Express. This API provides endpoints to extract anime, cartoon, movie, and series information from watchanimeworld.net.
 
 ## Screenshot
 

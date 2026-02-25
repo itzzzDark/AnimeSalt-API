@@ -14,7 +14,7 @@ class HomeExtractor extends BaseExtractor {
   }
 
   getSourceName() {
-    return 'watchanimeworld.in';
+    return 'watchanimeworld.net';
   }
 
   extractAnimeItem($, item, includeSeasonEpisodes = false) {

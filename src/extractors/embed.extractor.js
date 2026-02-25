@@ -48,12 +48,17 @@ class EmbedExtractor extends BaseExtractor {
       }
     });
 
+    // Filter out servers named "play" (case insensitive)
+    const filteredServers = servers.filter(server => 
+      !server.name.toLowerCase().includes('play')
+    );
+
     // Sort by server number
-    servers.sort((a, b) => a.server - b.server);
+    filteredServers.sort((a, b) => a.server - b.server);
 
     return {
       id: '',
-      servers: servers,
+      servers: filteredServers,
     };
   }
 

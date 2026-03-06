@@ -1,4 +1,4 @@
-# AniBiee - AnimeWorldIndia Scraper API
+# AnimeSalt Scraper API
 
 ![Favicon](public/favicon.png)
 

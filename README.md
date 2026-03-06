@@ -2,7 +2,7 @@
 
 ![Favicon](public/favicon.png)
 
-A RESTful API scraper for AnimeWorldIndia, built with Node.js and Express. This API provides endpoints to extract anime, cartoon, movie, and series information from watchanimeworld.net.
+A Node.js and Express-powered RESTful API designed to scrape and extract data from AnimeSalt.
 
 ## Screenshot
 
@@ -34,8 +34,8 @@ A RESTful API scraper for AnimeWorldIndia, built with Node.js and Express. This 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/basirulakhlakborno/AniBiee-AnimeWorldIndia-scraper.git
-cd AniBiee-AnimeWorldIndia-scraper
+git clone https://github.com/itzzzdark/AnimeSalt-API.git
+cd AnimeSalt-API
 ```
 
 2. Install dependencies:
@@ -66,7 +66,7 @@ Create a `.env` file in the root directory with the following variables:
 ```env
 PORT=3000
 NODE_ENV=development
-CORS_ORIGIN=https://example.com
+CORS_ORIGIN=https://example.com,https://another.com
 ```
 
 ### Environment Variables

@@ -1,4 +1,4 @@
-# AnimeSalt Scraper API
+# AnimeSalt API
 
 ![Favicon](public/AnimeSalt.png)
 

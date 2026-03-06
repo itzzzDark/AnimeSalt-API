@@ -1,6 +1,5 @@
-# AnimeSalt API
+### <img src="public/AnimeSalt.png" height="40"> AnimeSalt API
 
-![Favicon](public/AnimeSalt.png)
 
 A Node.js and Express-powered RESTful API designed to scrape and extract data from AnimeSalt.
 

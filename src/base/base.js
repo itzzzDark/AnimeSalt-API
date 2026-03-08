@@ -6,7 +6,7 @@
 
 class WatchAnimeWorldBase {
   constructor() {
-    this.baseUrl = 'https://animesalt.top';
+    this.baseUrl = 'https://animesalt.ac';
   }
 
   buildUrl(path) {

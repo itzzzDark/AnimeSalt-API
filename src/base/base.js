@@ -6,7 +6,7 @@
 
 class WatchAnimeWorldBase {
   constructor() {
-    this.baseUrl = 'https://animesalt.ac';
+    this.baseUrl = 'https://toonstream.dad';
   }
 
   buildUrl(path) {

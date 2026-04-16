@@ -14,7 +14,7 @@ class EmbedExtractor extends BaseExtractor {
   }
 
   getSourceName() {
-    return 'watchanimeworld.net';
+    return 'toonstream.dad';
   }
 
   async extract(html, url) {
